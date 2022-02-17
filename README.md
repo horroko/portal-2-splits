@@ -3,8 +3,9 @@ Usage
 
 Configure LiveSplit
 -------------------
-1. open the split in [LiveSplit](https://livesplit.org/)
-2. make sure auto splitting is active
+1. download a [Release](https://github.com/Horroko/portal-2-splits/releases/)
+2. open the split in [LiveSplit](https://livesplit.org/)
+3. make sure auto splitting is active
    * right-click -> edit split -> Activate
 
 Configure Portal
